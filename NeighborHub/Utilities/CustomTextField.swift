@@ -122,7 +122,7 @@ struct AreaPickerView: View {
                 .listStyle(.insetGrouped)
                 .scrollContentBackground(.hidden)
             }
-            .navigationTitle("Apna area chunao")
+            .navigationTitle("Select Your Area")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .navigationBarTrailing) {
